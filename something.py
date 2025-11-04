@@ -1,1 +1,0 @@
-# Check reminders for details on this project
